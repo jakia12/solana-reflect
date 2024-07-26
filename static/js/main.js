@@ -526,7 +526,7 @@ $(function () {
           },
         },
         color: {
-          value: "#9945ff",
+          value: "#52c2e3",
         },
         shape: {
           type: "circle",
